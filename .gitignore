@@ -467,3 +467,4 @@ dist/
 # macOS Python temp files
 # =========================
 .python-version
+sam3_video_predictor.pt
